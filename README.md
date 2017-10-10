@@ -1,0 +1,2 @@
+# weechat
+Different Weechat Configs
